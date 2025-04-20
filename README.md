@@ -23,7 +23,7 @@ Example image from <a href='https://commons.wikimedia.org/wiki/File:Bumblebee_wh
 
 ### Screenshots:
 
-<div style="display:grid;grid-template-columns: 35% 35%;justify-content:space-evenly;width:100%;">
-  <img src="screenshot.png" style="border:#EEE 1px solid;width:100%" alt=""/>
-  <img src="screenshot2.png" style="border:#EEE 1px solid;width:100%" alt=""/>
-</div>
+<table><tbody><tr>
+  <td><img src="screenshot.png" style="border:#EEE 1px solid;width:100%" alt=""/></td>
+  <td><img src="screenshot2.png" style="border:#EEE 1px solid;width:100%" alt=""/></td>
+</tr></tbody></table>

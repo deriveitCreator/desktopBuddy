@@ -10,7 +10,7 @@ This app lets you have your pet floating on a position of your liking.<br/>
 Example image from <a href='https://commons.wikimedia.org/wiki/File:Bumblebee_white_eyes_clipart.svg'>wikimedia.org</a>.
 
 ### How to use:
-- Run `idleFloatingDesktopBuddy.exe`.
+- Run `desktopBuddy.exe`.
 - <u>To use your own image:</u>
   - Place the image in this folder, and rename it `image.png` (replacing the already provided one).
   - Then open `size.h` and set the dimensions of the image. Keep in mind that the window would be a square (where the length would be the size of the larger dimension of your image). 

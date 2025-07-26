@@ -11,10 +11,11 @@ Example image from <a href='https://commons.wikimedia.org/wiki/File:Bumblebee_wh
 
 If you like this project, donations would be appreciated: &nbsp;<img alt="ko-fi" src="kofi_symbol.png" height="12"/> [deriveitCreator](https://ko-fi.com/deriveitcreator)
 
-### How to use:
+
+### How to download:
 - Download the zip from the releases.
 - Extract the files and run `desktopBuddy.exe`.
-- To use your own image, place it in the same as folder as `desktopBuddy.exe`, and name it `image.png` (replacing the example image).
+- To use your own image, replace `image.png` with your own custom image.
 
 ### Hotkeys:
 - `Esc`: close window.

@@ -21,8 +21,9 @@ If you like this project, donations would be appreciated: &nbsp;<img alt="ko-fi"
 - `f`: toggle float (the up and down movement).
 - `t`: keep the window on top. You can click through the window when this is toggled on.
 - `c`: Bring the window to the center of your monitor.
+- `m`: toggle whether buddy looks at mouse.
 - Arrow Keys: Move your buddy up, down, left or right.
-- `W`/`A`/`S`/`D`: Change width and height.
+- `w`/`a`/`s`/`d`: Change width and height.
 
 ### Screenshots:
 

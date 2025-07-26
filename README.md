@@ -6,7 +6,6 @@
 Want a little dektop pet in the corner of your screen?<br/>
 This app lets you have your pet floating on a position of your liking.<br/>
 
-Example image from <a href='https://commons.wikimedia.org/wiki/File:Bumblebee_white_eyes_clipart.svg'>wikimedia.org</a>.
 
 If you like this project, donations would be appreciated: &nbsp;<img alt="ko-fi" src="kofi_symbol.png" height="12"/> [deriveitCreator](https://ko-fi.com/deriveitcreator)
 
@@ -31,3 +30,5 @@ If you like this project, donations would be appreciated: &nbsp;<img alt="ko-fi"
   <td><img src="screenshot.png" style="border:#EEE 1px solid;width:100%" alt=""/></td>
   <td><img src="screenshot2.png" style="border:#EEE 1px solid;width:100%" alt=""/></td>
 </tr></tbody></table>
+
+Example image from <a href='https://commons.wikimedia.org/wiki/File:Bumblebee_white_eyes_clipart.svg'>wikimedia.org</a>.

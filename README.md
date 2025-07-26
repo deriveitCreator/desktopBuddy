@@ -1,4 +1,4 @@
-# Idle Floating Desktop Buddy (Windows Only)
+# Desktop Buddy (Windows Only)
 
 ![Static Badge](https://img.shields.io/badge/C%20Programming%20Language-blue?style=for-the-badge&logo=C&logoColor=white&labelColor=%236195CB&color=%2300427E) ![Static Badge](https://img.shields.io/badge/Raylib%20library-blue?style=for-the-badge&logo=raylib&logoColor=black&labelColor=white&color=%23f5f5f5)
 

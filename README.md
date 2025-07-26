@@ -10,7 +10,8 @@ This app lets you have your pet floating on a position of your liking.<br/>
 Example image from <a href='https://commons.wikimedia.org/wiki/File:Bumblebee_white_eyes_clipart.svg'>wikimedia.org</a>.
 
 ### How to use:
-- Simply run `desktopBuddy.exe`.
+- Download the zip from the releases.
+- Extract the files and run `desktopBuddy.exe`.
 - To use your own image, place it in the same as folder as `desktopBuddy.exe`, and name it `image.png` (replacing the example image).
 
 ### Hotkeys:

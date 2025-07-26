@@ -9,6 +9,8 @@ This app lets you have your pet floating on a position of your liking.<br/>
 <u>Compilation:</u> `gcc main.c windows.c -o desktopBuddy.exe -lraylib -lgdi32 -lwinmm -Wl,--subsystem,windows`.<br/>
 Example image from <a href='https://commons.wikimedia.org/wiki/File:Bumblebee_white_eyes_clipart.svg'>wikimedia.org</a>.
 
+If you like this project, donations would be appreciated: &nbsp;<img alt="ko-fi" src="kofi_symbol.png" height="12"/> [deriveitCreator](https://ko-fi.com/deriveitcreator)
+
 ### How to use:
 - Download the zip from the releases.
 - Extract the files and run `desktopBuddy.exe`.

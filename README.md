@@ -4,7 +4,7 @@
 
 
 Want a little dektop pet in the corner of your screen?<br/>
-This app lets you have your pet floating on a position of your liking.<br/>
+This app lets you have your pet floating on any position you like.<br/>
 
 
 If you like this project, donations would be appreciated: &nbsp;<img alt="ko-fi" src="kofi_symbol.png" height="12"/> [deriveitCreator](https://ko-fi.com/deriveitcreator)

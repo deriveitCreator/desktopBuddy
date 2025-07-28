@@ -17,11 +17,12 @@ If you like this project, donations would be appreciated: &nbsp;<img alt="ko-fi"
 
 ### Hotkeys:
 - `Esc`: close window.
-- `b`: toggle window border.
-- `f`: toggle float (the up and down movement).
-- `t`: keep the window on top. You can click through the window when this is toggled on.
-- `c`: Bring the window to the center of your monitor.
-- `m`: toggle whether buddy looks at mouse.
+- `b`: toggle window **b**order.
+- `f`: toggle **f**loat (the up and down movement).
+- `z`: sets offset to **z**ero.
+- `t`: keep the window on **t**op. You can click through the window when this is toggled on.
+- `c`: Bring the window to the **c**enter of your monitor.
+- `m`: toggle whether buddy looks at **m**ouse.
 - Arrow Keys: Move your buddy up, down, left or right.
 - `w`/`a`/`s`/`d`: Change width and height.
 

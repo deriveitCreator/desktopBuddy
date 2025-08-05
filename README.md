@@ -19,7 +19,7 @@ If you like this project, donations would be appreciated: &nbsp;<img alt="ko-fi"
 - `Esc`: close window.
 - `b`: toggle window **b**order.
 - `f`: toggle **f**loat (the up and down movement).
-- `z`: sets offset to **z**ero.
+- `z`: sets float offset to **z**ero.
 - `t`: keep the window on **t**op. You can click through the window when this is toggled on.
 - `c`: Bring the window to the **c**enter of your monitor.
 - `m`: toggle whether buddy looks at **m**ouse.
@@ -34,3 +34,4 @@ If you like this project, donations would be appreciated: &nbsp;<img alt="ko-fi"
 </tr></tbody></table>
 
 Example image from <a href='https://commons.wikimedia.org/wiki/File:Bumblebee_white_eyes_clipart.svg'>wikimedia.org</a>.
+

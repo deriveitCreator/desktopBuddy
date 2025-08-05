@@ -35,9 +35,11 @@ If you like this project, donations would be appreciated: &nbsp;<img alt="ko-fi"
 
 Example image from <a href='https://commons.wikimedia.org/wiki/File:Bumblebee_white_eyes_clipart.svg'>wikimedia.org</a>.
 
+<br/>
 
 ### Updates
 
 update 1.6:
  - <u>Bug Fix:</u> Some images showed a black color in their padding when "squarified". This is fixed now.
+
 

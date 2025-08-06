@@ -39,7 +39,12 @@ Example image from <a href='https://commons.wikimedia.org/wiki/File:Bumblebee_wh
 
 ### Updates
 
+update 1.7:
+- Image is small enough so it doesn't overflow when it's diagonal.
+- <u>Bug Fix:</u> Some images did not show up in the icon. This is fixed now.
+
 update 1.6:
  - <u>Bug Fix:</u> Some images showed a black color in their padding when "squarified". This is fixed now.
+
 
 
